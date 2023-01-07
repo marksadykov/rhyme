@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rhyme/static/css/main.382ec9a4.css",
-    "main.js": "/rhyme/static/js/main.a27cc973.js",
+    "main.js": "/rhyme/static/js/main.d329c614.js",
     "static/media/for_molodaya.mp3": "/rhyme/static/media/for_molodaya.82fe5971bd40d7b7af81.mp3",
     "static/media/pause.svg": "/rhyme/static/media/pause.196f5d0828045454de2622f85a836811.svg",
     "static/media/prev.svg": "/rhyme/static/media/prev.0cd20c59e15c8f126b77500625e2432b.svg",
@@ -9,10 +9,10 @@
     "index.html": "/rhyme/index.html",
     "static/media/play.svg": "/rhyme/static/media/play.616c31cdc8574fa96a5e49749741f384.svg",
     "main.382ec9a4.css.map": "/rhyme/static/css/main.382ec9a4.css.map",
-    "main.a27cc973.js.map": "/rhyme/static/js/main.a27cc973.js.map"
+    "main.d329c614.js.map": "/rhyme/static/js/main.d329c614.js.map"
   },
   "entrypoints": [
     "static/css/main.382ec9a4.css",
-    "static/js/main.a27cc973.js"
+    "static/js/main.d329c614.js"
   ]
 }
